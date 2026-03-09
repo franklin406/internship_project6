@@ -436,18 +436,4 @@ Feedback from mentors may focus on:
 * Using real datasets
 * Improving visualization
 
----
 
-✅ **Project Type:** Deep Learning
-✅ **Model Used:** Conditional GAN (cGAN)
-✅ **Framework:** PyTorch
-✅ **Output:** Synthetic image generation based on labels
-
----
-
-If you want, I can also help you create:
-
-* **A professional GitHub README.md for this project**
-* **A full 10–12 page project report**
-* **A project presentation (PPT)**
-* **Improved GAN code that actually generates circles and squares** (much better for evaluation).
